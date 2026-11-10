@@ -16,7 +16,9 @@ h1{
  text-align: center;
 }
 
-img {
-display: flex;
-text-align: center;
+img{
+  display: block;
+  margin: 1em auto;
+  max-width: 100%;
+  height: auto;
 }
