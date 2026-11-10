@@ -1,0 +1,22 @@
+
+body{ 
+ background-color: black;
+ } 
+ 
+ p{ 
+  color: white;
+  font-size : 16px;
+  font-family : Arial;
+  align-content : justify;
+  width: 50%;
+  margin : auto; 
+}
+h1{ 
+ color : white;
+ text-align : center
+
+img {
+  display: block; /* Ensure block-level behavior */
+  margin-left: auto;
+  margin-right: auto;
+}
