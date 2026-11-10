@@ -23,9 +23,7 @@ h1{
   gap: 20px;
   flex-wrap: wrap;
 }
-
-.galerie img{
-  display: block;
+.galerie img {
   margin: 0;
   max-width: 30%;
   height: auto;
