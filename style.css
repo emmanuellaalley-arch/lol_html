@@ -1,19 +1,18 @@
-
 body{ 
  background-color: black;
  } 
  
  p{ 
   color: white;
-  font-size : 16px;
-  font-family : Arial;
-  align-content : justify;
+  font-size: 16px;
+  font-family: Arial;
+  align-content: justify;
   width: 50%;
-  margin : auto; 
+  margin: auto; 
 }
 h1{ 
- color : white;
- text-align : center
+ color: white;
+ text-align: center;
 
 img {
   display: block; /* Ensure block-level behavior */
