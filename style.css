@@ -16,7 +16,17 @@ h1{
  text-align: center;
 }
 
-img {
-  display: inline-block;
-  margin: 10px;
+.galerie {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.galerie img {
+  display: block;
+  margin: 0;
+  max-width: 30%;
+  height: auto;
 }
